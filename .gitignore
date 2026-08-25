@@ -1,0 +1,9 @@
+# Database (contains API keys and logs - NEVER upload!)
+data/
+*.db
+*.db-wal
+*.db-shm
+
+# System files
+.DS_Store
+Thumbs.db
